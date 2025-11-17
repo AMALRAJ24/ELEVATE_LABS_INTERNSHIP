@@ -1,2 +1,2 @@
 # ELEVATE_LABS_INTERNSHIP
-Cybersecurity Practice Repository – Daily challenges, research notes, and practical project work in ethical hacking and defense.
+Cybersecurity Practice Repository – This repository documents my daily learning and practical work in cybersecurity, including hands-on labs, network analysis, ethical hacking exercises, defensive security techniques, research notes, and comprehensive interview questions across multiple cybersecurity domains.
